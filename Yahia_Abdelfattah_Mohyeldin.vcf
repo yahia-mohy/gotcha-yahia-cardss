@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Mohyeldin;Yahia Abdelfattah;;;
+FN:Yahia Abdelfattah Mohyeldin
+ORG:GOTCHA Creative Consultancy & Services
+TITLE:Director of Client Solutions
+TEL;TYPE=WORK,VOICE:+971-50-3939345
+TEL;TYPE=CELL,VOICE:+971-58-6607899
+ADR;TYPE=WORK:;;Abu Dhabi – UAE;;;;
+EMAIL;TYPE=PREF,INTERNET:hello@gotchacreative.com
+URL:https://gotchacreative.com
+X-SOCIALPROFILE;type=linkedin:https://www.linkedin.com/company/gotcha-creative-consultancy-uae/
+X-SOCIALPROFILE;type=instagram:https://instagram.com/gotchacreative.ae
+END:VCARD
